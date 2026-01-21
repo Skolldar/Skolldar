@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carla</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | CSS Artisan</h3>
+<h3 align="center">Web Developer | React Enthusiast | CSS Artisan</h3>
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
 - 💬 Ask me about **React.js, Javascript, CSS, HTML5**
 
 - 📫 How to reach me **exoreiba@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lPYCkdkdJTRaO2XHbvjPYNA-mwk8pDBw/view?usp=sharing](https://drive.google.com/file/d/1lPYCkdkdJTRaO2XHbvjPYNA-mwk8pDBw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
