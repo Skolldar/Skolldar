@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carla</h1>
-<h3 align="center">Web Developer | React Enthusiast |</h3>
+<h3 align="center">Web Developer | React | TypeScript </h3>
 
 - 🌱 I’m currently learning **Typescript, Next.js**
 
