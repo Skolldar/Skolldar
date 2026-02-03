@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://carladev.netlify.app/" target="blank"><img align="center" src="https://i.postimg.cc/Hx50Z9kF/logo.png" alt="carla-portafolio" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/epcarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="epcarla" height="30" width="40" /></a>
 <a href="https://fb.com/epcarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="epcarla" height="30" width="40" /></a>
 <a href="https://instagram.com/epcarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="epcarla" height="30" width="40" /></a>
+<a href="https://carladev.netlify.app/" target="blank"><img align="center" src="https://i.postimg.cc/Hx50Z9kF/logo.png" alt="carla-portafolio" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
